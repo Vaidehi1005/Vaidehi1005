@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Frontend Development|Web Development**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vaidehi1005](https://github.com/Vaidehi1005)
 
