@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🔭 I’m currently working on [Web Development|Figma|Python](https://github.com/Vaidehi1005)
+- 🔭 I’m currently working on [Figma|Canva](https://github.com/Vaidehi1005)
 
 - 🌱 I’m currently learning **Figma**
 
