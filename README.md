@@ -1,5 +1,5 @@
 <h1 align="center">Myself, Vaidehi Shailesh Nayakpura</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Quick-Learning Undergraduate Coder | Learning Web Development</h3>
+<h3 align="center">CSE Student | Bridging Code & Creativity | UI/UX in Progress with Figma & Canva</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
