@@ -1,5 +1,5 @@
 <h1 align="center">Myself, Vaidehi Shailesh Nayakpura</h1>
-<h3 align="center">CSE Student | Bridging Code & Creativity | UI/UX in Progress with Figma & Canva</h3>
+<h3 align="center">CSE’27 JG University | Aspiring AI/ML Engineer | UI/UX Designer | Tech Enthusiast | Frontend Developer | Problem Solver and DSA Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaidehi1005&label=Profile%20views&color=0e75b6&style=flat" alt="vaidehi1005" /> </p>
 
